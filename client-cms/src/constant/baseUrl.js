@@ -1,0 +1,1 @@
+export const baseUrl = "https://servertiketstays.adharul.my.id";
